@@ -1,0 +1,558 @@
+	Tags	SeqName	Description	Length	#Hits	e-Value	sim mean	#GO	GO IDs	GO Names	Enzyme Codes	Enzyme Names	InterPro IDs	InterPro GO IDs	InterPro GO Names
+true	[BLASTED]	mtb_smORF1_10966_11121_plus	hypothetical protein	51	3	5.23688E-19	100.0								
+true	[NO-BLAST]	mtb_smORF2_13717_13854_plus	---NA---	45											
+true	[BLASTED]	mtb_smORF3_33964_34218_plus	hypothetical protein BTB1458_0040	84	1	5.10398E-48	100.0								
+true	[NO-BLAST]	mtb_smORF4_416959_417228_plus	---NA---	89											
+true	[BLASTED]	mtb_smORF5_483610_483789_plus	Uncharacterised protein	59	3	2.53871E-33	100.0								
+true	[BLASTED]	mtb_smORF6_635974_636144_plus	transmembrane protein	56	1	1.63367E-9	65.22								
+true	[BLASTED]	mtb_smORF7_663385_663579_plus	predicted protein	64	4	2.62531E-31	98.83								
+true	[NO-BLAST]	mtb_smORF8_703999_704241_plus	---NA---	80											
+true	[NO-BLAST]	mtb_smORF9_705979_706155_plus	---NA---	58											
+true	[BLASTED]	mtb_smORF10_789172_789420_plus	Uncharacterised protein	82	20	1.07465E-40	98.92								
+true	[NO-BLAST]	mtb_smORF11_800107_800370_plus	---NA---	87											
+true	[NO-BLAST]	mtb_smORF12_811234_811482_plus	---NA---	82											
+true	[BLASTED]	mtb_smORF13_931786_932010_plus	Uncharacterised protein	74	1	9.15802E-47	100.0								
+true	[BLASTED]	mtb_smORF14_982531_982674_plus	Uncharacterised protein	47	2	6.84083E-25	100.0								
+true	[BLASTED, MAPPED]	mtb_smORF15_986260_986535_plus	site-specific integrase	91	14	2.0407E-54	78.69	3	P:GO:0006310; P:GO:0015074; F:GO:0003677	P:DNA recombination; P:DNA integration; F:DNA binding					
+true	[BLASTED]	mtb_smORF16_1006546_1006770_plus	exported hypothetical protein	74	1	1.836E-46	100.0								
+true	[BLASTED, MAPPED]	mtb_smORF17_1014400_1014555_plus	PPE domain-containing protein	51	20	1.15445E-25	87.56	2	P:GO:0030031; P:GO:0052572	P:cell projection assembly; P:response to host immune response					
+true	[BLASTED]	mtb_smORF18_1023865_1024122_plus	Uncharacterised protein	85	20	1.08596E-52	99.0								
+true	[BLASTED]	mtb_smORF19_1056880_1057167_plus	Uncharacterised protein	95	2	6.7097E-62	100.0								
+true	[BLASTED]	mtb_smORF20_1057447_1057641_plus	MULTISPECIES: hypothetical protein	64	12	5.31947E-38	98.96								
+true	[BLASTED]	mtb_smORF21_1061653_1061832_plus	predicted protein	59	7	6.00117E-37	75.22								
+true	[BLASTED]	mtb_smORF22_1113691_1113864_plus	Hypothetical protein BCGMEX_1024	57	5	2.36513E-32	99.65								
+true	[BLASTED]	mtb_smORF23_1148218_1148430_plus	Uncharacterised protein	70	20	7.3539E-22	98.71								
+true	[BLASTED]	mtb_smORF24_1170550_1170840_plus	mutator family transposase	96	6	1.03418E-19	95.27								
+true	[NO-BLAST]	mtb_smORF25_1172116_1172367_plus	---NA---	83											
+true	[NO-BLAST]	mtb_smORF26_1179175_1179348_plus	---NA---	57											
+true	[BLASTED]	mtb_smORF27_1196185_1196319_plus	transmembrane domain protein	44	2	7.77495E-22	87.5								
+true	[NO-BLAST]	mtb_smORF28_1216276_1216395_plus	---NA---	39											
+true	[BLASTED]	mtb_smORF29_1220221_1220352_plus	Uncharacterised protein	43	1	1.29325E-20	100.0								
+true	[BLASTED]	mtb_smORF30_1272136_1272363_plus	predicted protein	75	16	7.25136E-46	85.75								
+true	[BLASTED]	mtb_smORF31_1355599_1355826_plus	Uncharacterised protein	75	2	6.8989E-39	100.0								
+true	[BLASTED]	mtb_smORF32_1413106_1413360_plus	hypothetical protein, partial	84	10	1.87266E-45	99.31								
+true	[NO-BLAST]	mtb_smORF33_1471750_1471899_plus	---NA---	49											
+true	[BLASTED]	mtb_smORF34_1473025_1473264_plus	Uncharacterised protein	79	20	3.04416E-46	86.81								
+true	[BLASTED]	mtb_smORF35_1473940_1474104_plus	Uncharacterised protein	54	1	7.42608E-17	98.15								
+true	[BLASTED]	mtb_smORF36_1474564_1474686_plus	retrotransposon protein	40	8	5.77614E-12	83.97								
+true	[NO-BLAST]	mtb_smORF37_1476769_1476999_plus	---NA---	76											
+true	[NO-BLAST]	mtb_smORF38_1485205_1485384_plus	---NA---	59											
+true	[NO-BLAST]	mtb_smORF39_1533670_1533822_plus	---NA---	50											
+true	[BLASTED]	mtb_smORF40_1537537_1537794_plus	Uncharacterised protein	85	4	1.32755E-54	77.82								
+true	[BLASTED]	mtb_smORF41_1774921_1775040_plus	hypothetical protein	39	2	2.26776E-17	93.59								
+true	[NO-BLAST]	mtb_smORF42_1783744_1784001_plus	---NA---	85											
+true	[NO-BLAST]	mtb_smORF43_1893691_1893957_plus	---NA---	88											
+true	[BLASTED]	mtb_smORF44_1960837_1961037_plus	hypothetical protein MT1775	66	2	2.27999E-38	79.69								
+true	[BLASTED]	mtb_smORF45_1992739_1992972_plus	Uncharacterised protein	77	13	1.97032E-45	99.58								
+true	[NO-BLAST]	mtb_smORF46_2024872_2025132_plus	---NA---	86											
+true	[BLASTED]	mtb_smORF47_2029789_2030040_plus	PPE family protein	83	1	1.46159E-7	100.0								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF48_2030347_2030523_plus	ESAT-6 like protein EsxJ	58	20	8.66898E-34	100.0	1	C:GO:0005576	C:extracellular region					
+true	[BLASTED]	mtb_smORF49_2203582_2203773_plus	Uncharacterised protein	63	2	3.94025E-38	98.91								
+true	[BLASTED]	mtb_smORF50_2233723_2233980_plus	Uncharacterised protein	85	20	7.43884E-48	98.82								
+true	[BLASTED]	mtb_smORF51_2338438_2338719_plus	possible membrane protein	93	20	3.80523E-60	100.0								
+true	[BLASTED, MAPPED]	mtb_smORF52_2343994_2344224_plus	transposase	76	20	5.74672E-48	88.62	2	P:GO:0015074; F:GO:0003676	P:DNA integration; F:nucleic acid binding					
+true	[NO-BLAST]	mtb_smORF53_2367289_2367525_plus	---NA---	78											
+true	[NO-BLAST]	mtb_smORF54_2445328_2445492_plus	---NA---	54											
+true	[NO-BLAST]	mtb_smORF55_2453557_2453832_plus	---NA---	91											
+true	[NO-BLAST]	mtb_smORF56_2564131_2564340_plus	---NA---	69											
+true	[BLASTED]	mtb_smORF57_2565064_2565249_plus	hypothetical protein, partial	61	1	1.08377E-6	95.35								
+true	[NO-BLAST]	mtb_smORF58_2579992_2580255_plus	---NA---	87											
+true	[BLASTED]	mtb_smORF59_2581975_2582157_plus	Uncharacterised protein	60	1	4.11852E-20	100.0								
+true	[NO-BLAST]	mtb_smORF60_2603650_2603739_plus	---NA---	29											
+true	[NO-BLAST]	mtb_smORF61_2619019_2619309_plus	---NA---	96											
+true	[BLASTED]	mtb_smORF62_2654989_2655210_plus	Uncharacterised protein	73	3	1.38355E-30	100.0								
+true	[BLASTED]	mtb_smORF63_2739895_2740086_plus	Uncharacterised protein	63	1	1.97712E-24	100.0								
+true	[BLASTED]	mtb_smORF64_2756656_2756910_plus	hypothetical protein BCGT_2288	84	1	3.07103E-17	100.0								
+true	[NO-BLAST]	mtb_smORF65_2849701_2849892_plus	---NA---	63											
+true	[NO-BLAST]	mtb_smORF66_2870125_2870361_plus	---NA---	78											
+true	[BLASTED]	mtb_smORF67_2925238_2925528_plus	Uncharacterised protein	96	1	1.23911E-7	80.0								
+true	[BLASTED]	mtb_smORF68_2954767_2954961_plus	hypothetical protein, partial	64	4	2.07744E-23	100.0								
+true	[BLASTED]	mtb_smORF69_3020323_3020511_plus	Uncharacterised protein	62	20	1.32855E-21	98.06								
+true	[BLASTED]	mtb_smORF70_3031594_3031755_plus	repressor lexA	53	1	6.32869E-21	100.0								
+true	[NO-BLAST]	mtb_smORF71_3073579_3073722_plus	---NA---	47											
+true	[BLASTED]	mtb_smORF72_3092701_3092973_plus	hypothetical protein L838_1296	90	1	6.80597E-8	90.63								
+true	[BLASTED]	mtb_smORF73_3184669_3184854_plus	prevent-host-death family protein	61	20	4.64144E-34	99.1								
+true	[BLASTED]	mtb_smORF74_3189784_3189942_plus	Uncharacterised protein	52	1	2.44269E-27	100.0								
+true	[BLASTED]	mtb_smORF75_3359308_3359478_plus	hypothetical protein BIS44_2831	56	1	1.69779E-33	100.0								
+true	[NO-BLAST]	mtb_smORF76_3411004_3411186_plus	---NA---	60											
+true	[NO-BLAST]	mtb_smORF77_3425401_3425580_plus	---NA---	59											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF78_3429568_3429750_plus	putative membrane protein	60	4	5.62567E-22	100.0	1	C:GO:0016020	C:membrane					
+true	[NO-BLAST]	mtb_smORF79_3493603_3493707_plus	---NA---	34											
+true	[BLASTED]	mtb_smORF80_3493720_3493959_plus	hypothetical protein	79	3	2.68844E-9	76.55								
+true	[NO-BLAST]	mtb_smORF81_3722473_3722766_plus	---NA---	97											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF82_3788482_3788616_plus	enoyl-CoA hydratase EchA18.1	44	20	2.48614E-23	99.77	1	F:GO:0004300	F:enoyl-CoA hydratase activity	EC:4.2.1.17	Enoyl-CoA hydratase			
+true	[NO-BLAST]	mtb_smORF83_3798946_3799101_plus	---NA---	51											
+true	[BLASTED]	mtb_smORF84_3821818_3822015_plus	Uncharacterised protein	65	1	9.53124E-38	100.0								
+true	[BLASTED]	mtb_smORF85_3846637_3846855_plus	PE family protein	72	20	5.81121E-44	99.85								
+true	[BLASTED]	mtb_smORF86_3970576_3970788_plus	PPE family protein PPE61	70	1	1.16587E-24	100.0								
+true	[NO-BLAST]	mtb_smORF87_4056292_4056495_plus	---NA---	67											
+true	[NO-BLAST]	mtb_smORF88_4057201_4057422_plus	---NA---	73											
+true	[BLASTED]	mtb_smORF89_4081117_4081338_plus	hypothetical protein MULP_05409	73	2	2.99763E-13	75.34								
+true	[NO-BLAST]	mtb_smORF90_4107220_4107456_plus	---NA---	78											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF91_4110664_4110909_plus	transmembrane protein	81	1	4.81761E-33	96.72	1	C:GO:0016020	C:membrane					
+true	[BLASTED]	mtb_smORF92_4118557_4118739_plus	hypothetical protein CAURIC_10590	60	1	5.42911E-4	71.79								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF93_4169467_4169709_plus	cutinase cut5a	80	20	6.15201E-31	98.65	1	F:GO:0016787	F:hydrolase activity	EC:3	Hydrolases			
+true	[NO-BLAST]	mtb_smORF94_4185850_4186083_plus	---NA---	77											
+true	[BLASTED]	mtb_smORF95_4264336_4264533_plus	hypothetical protein	65	1	3.25892E-11	67.86								
+true	[NO-BLAST]	mtb_smORF96_4274680_4274859_plus	---NA---	59											
+true	[BLASTED]	mtb_smORF97_4287847_4288128_plus	Conserved exported protein of uncharacterised function	93	2	5.65355E-59	99.46								
+true	[BLASTED]	mtb_smORF98_4314031_4314105_plus	Uncharacterised protein	24	1	3.05437E-7	100.0								
+true	[BLASTED]	mtb_smORF99_4317805_4317981_plus	Uncharacterised protein	58	2	1.64005E-32	97.41								
+true	[BLASTED]	mtb_smORF100_4318519_4318734_plus	Uncharacterised protein	71	2	1.09492E-9	98.84								
+true	[BLASTED]	mtb_smORF101_13859_14092_plus	Uncharacterised protein	77	11	1.7077E-48	81.54								
+true	[NO-BLAST]	mtb_smORF102_71534_71836_plus	---NA---	100											
+true	[NO-BLAST]	mtb_smORF103_74489_74698_plus	---NA---	69											
+true	[BLASTED]	mtb_smORF104_99371_99640_plus	Conserved membrane protein of uncharacterised function	89	3	4.13574E-34	99.19								
+true	[BLASTED]	mtb_smORF105_130910_131122_plus	Uncharacterised protein	70	18	3.11651E-39	76.29								
+true	[NO-BLAST]	mtb_smORF106_221807_221989_plus	---NA---	60											
+true	[NO-BLAST]	mtb_smORF107_293567_293794_plus	---NA---	75											
+true	[NO-BLAST]	mtb_smORF108_333086_333349_plus	---NA---	87											
+true	[BLASTED]	mtb_smORF109_339107_339367_plus	predicted protein	86	20	1.74693E-55	100.0								
+true	[BLASTED]	mtb_smORF110_476237_476467_plus	hypothetical protein, partial	76	2	5.05579E-48	100.0								
+true	[BLASTED]	mtb_smORF111_622142_622345_plus	ATPase involved in chromosome partitioning	67	1	3.24147E-38	100.0								
+true	[NO-BLAST]	mtb_smORF112_675992_676234_plus	---NA---	80											
+true	[BLASTED]	mtb_smORF113_752828_753076_plus	Uncharacterised protein	82	3	5.51598E-37	100.0								
+true	[BLASTED]	mtb_smORF114_832469_832696_plus	hypothetical protein MLAC_39980	75	2	6.97696E-8	74.28								
+true	[NO-BLAST]	mtb_smORF115_934178_934459_plus	---NA---	93											
+true	[BLASTED]	mtb_smORF116_986144_986413_plus	Uncharacterised protein	89	2	2.36968E-34	100.0								
+true	[NO-BLAST]	mtb_smORF117_1026815_1027075_plus	---NA---	86											
+true	[BLASTED]	mtb_smORF118_1034516_1034755_plus	Uncharacterised protein	79	2	1.41254E-31	100.0								
+true	[NO-BLAST]	mtb_smORF119_1113812_1114060_plus	---NA---	82											
+true	[BLASTED]	mtb_smORF120_1164173_1164466_plus	Conserved protein of uncharacterised function%2C possible phage protein	97	1	2.30581E-52	98.86								
+true	[NO-BLAST]	mtb_smORF121_1169123_1169290_plus	---NA---	55											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF122_1176647_1176904_plus	integrase	85	20	4.22978E-54	87.54	1	P:GO:0006259	P:DNA metabolic process					
+true	[BLASTED]	mtb_smORF123_1200482_1200580_plus	hypothetical protein CAB90_01225	32	1	3.59988E-12	100.0								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF124_1215752_1216054_plus	cellulase celA2b	100	20	2.33583E-66	100.0	2	P:GO:0000272; F:GO:0008810	P:polysaccharide catabolic process; F:cellulase activity	EC:3.2.1.4	Cellulase			
+true	[NO-BLAST]	mtb_smORF125_1239956_1240108_plus	---NA---	50											
+true	[BLASTED]	mtb_smORF126_1282145_1282354_plus	Uncharacterised protein	69	2	2.9763E-24	100.0								
+true	[NO-BLAST]	mtb_smORF127_1351010_1351309_plus	---NA---	99											
+true	[BLASTED]	mtb_smORF128_1389143_1389262_plus	hypothetical protein MT1285	39	1	1.33949E-20	100.0								
+true	[BLASTED]	mtb_smORF129_1472558_1472665_plus	Uncharacterised protein	35	20	4.28429E-14	93.48								
+true	[BLASTED]	mtb_smORF130_1473209_1473346_plus	Uncharacterised protein	45	20	5.73525E-19	80.83								
+true	[BLASTED]	mtb_smORF131_1473464_1473613_plus	hypothetical protein	49	2	2.15165E-9	100.0								
+true	[NO-BLAST]	mtb_smORF132_1547600_1547755_plus	---NA---	51											
+true	[BLASTED]	mtb_smORF133_1593875_1594171_plus	HNH endonuclease signature motif containing protein	98	3	7.17796E-16	82.33								
+true	[BLASTED]	mtb_smORF134_1622768_1623007_plus	transcriptional regulator	79	20	3.47701E-51	99.49								
+true	[BLASTED]	mtb_smORF135_1653512_1653799_plus	Uncharacterised protein	95	1	9.27209E-6	100.0								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF136_1701098_1701346_plus	methyltransferase family protein	82	20	6.75213E-52	87.96	4	F:GO:0005506; F:GO:0016712; F:GO:0020037; C:GO:0016020	F:iron ion binding; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen; F:heme binding; C:membrane	EC:1.14.14	Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2)			
+true	[BLASTED]	mtb_smORF137_1757438_1757671_plus	Uncharacterised protein	77	20	5.50919E-49	97.34								
+true	[NO-BLAST]	mtb_smORF138_1851941_1852213_plus	---NA---	90											
+true	[BLASTED]	mtb_smORF139_1900838_1901131_plus	hypothetical protein BN9982_530014	97	1	5.00591E-62	100.0								
+true	[BLASTED]	mtb_smORF140_1914938_1915096_plus	tyrosyl-tRNA synthase tyrS	52	3	1.36559E-27	100.0								
+true	[BLASTED]	mtb_smORF141_1946417_1946524_plus	Uncharacterised protein	35	3	5.33623E-5	100.0								
+true	[BLASTED]	mtb_smORF142_1999208_1999426_plus	hypothetical protein CIP107514_02156	72	1	1.12588E-5	54.93								
+true	[BLASTED]	mtb_smORF143_2014478_2014684_plus	Uncharacterised protein	68	6	2.12893E-40	98.98								
+true	[BLASTED]	mtb_smORF144_2017475_2017717_plus	Uncharacterised protein	80	1	1.44076E-51	100.0								
+true	[BLASTED]	mtb_smORF145_2031965_2032243_plus	Uncharacterised protein	92	5	6.50162E-56	86.17								
+true	[NO-BLAST]	mtb_smORF146_2087654_2087914_plus	---NA---	86											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF147_2138423_2138701_plus	Uncharacterised protein	92	5	5.67248E-45	93.1	3	P:GO:0044238; P:GO:0044281; P:GO:0071704	P:primary metabolic process; P:small molecule metabolic process; P:organic substance metabolic process					
+true	[BLASTED]	mtb_smORF148_2142080_2142373_plus	Putative integrase fragment	97	12	8.52985E-62	89.29								
+true	[BLASTED]	mtb_smORF149_2207438_2207740_plus	Uncharacterised protein	100	7	3.22828E-27	97.19								
+true	[BLASTED]	mtb_smORF150_2232275_2232427_plus	putative 23S rRNA methyltransferase Erm(37)	50	20	1.63429E-26	93.52								
+true	[BLASTED]	mtb_smORF151_2255927_2256106_plus	trehalose-6-phosphate phosphatase OtsB1	59	4	2.03401E-30	100.0								
+true	[BLASTED]	mtb_smORF152_2263226_2263429_plus	Uncharacterised protein	67	20	1.36566E-41	99.63								
+true	[BLASTED]	mtb_smORF153_2365133_2365381_plus	Uncharacterised protein	82	8	4.36797E-51	98.81								
+true	[BLASTED]	mtb_smORF154_2398403_2398684_plus	dihydroorotate dehydrogenase	93	20	1.55518E-47	98.98								
+true	[NO-BLAST]	mtb_smORF155_2581511_2581651_plus	---NA---	46											
+true	[BLASTED]	mtb_smORF156_2626205_2626360_plus	Conserved membrane protein of uncharacterised function	51	2	6.84312E-8	100.0								
+true	[BLASTED]	mtb_smORF157_2679968_2680177_plus	Uncharacterised protein	69	1	6.09567E-32	100.0								
+true	[BLASTED]	mtb_smORF158_2739794_2740063_plus	hypothetical protein MIC448_190004	89	3	2.1492E-28	71.87								
+true	[NO-BLAST]	mtb_smORF159_2745140_2745400_plus	---NA---	86											
+true	[BLASTED]	mtb_smORF160_2827949_2828236_plus	Uncharacterised protein	95	1	1.94487E-58	98.95								
+true	[NO-BLAST]	mtb_smORF161_2830742_2830921_plus	---NA---	59											
+true	[BLASTED]	mtb_smORF162_2877695_2877943_plus	conserved hypothetical protein	82	2	1.53409E-4	85.19								
+true	[BLASTED]	mtb_smORF163_2881466_2881702_plus	Protein of uncharacterised function (DUF2652)	78	20	1.99602E-49	95.81								
+true	[NO-BLAST]	mtb_smORF164_2955611_2955694_plus	---NA---	27											
+true	[BLASTED]	mtb_smORF165_2959898_2960095_plus	Uncharacterised protein	65	5	1.07442E-30	99.69								
+true	[BLASTED]	mtb_smORF166_3071306_3071563_plus	Uncharacterised protein	85	1	7.97134E-39	100.0								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF167_3168212_3168427_plus	hydrogenase nickel incorporation protein HypB	71	20	2.83399E-43	99.37	4	P:GO:0051604; F:GO:0003924; F:GO:0008270; F:GO:0016151	P:protein maturation; F:GTPase activity; F:zinc ion binding; F:nickel cation binding	EC:3.6.1.15	Nucleoside-triphosphate phosphatase			
+true	[BLASTED]	mtb_smORF168_3178196_3178336_plus	GIY-YIG nuclease family protein	46	20	1.17301E-24	70.77								
+true	[NO-BLAST]	mtb_smORF169_3214259_3214501_plus	---NA---	80											
+true	[BLASTED]	mtb_smORF170_3414104_3414349_plus	Uncharacterised protein	81	1	1.33478E-21	100.0								
+true	[NO-BLAST]	mtb_smORF171_3457910_3458065_plus	---NA---	51											
+true	[BLASTED]	mtb_smORF172_3494735_3494992_plus	pyridoxamine 5'-phosphate oxidase family protein	85	20	5.68271E-56	99.35								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF173_3568280_3568537_plus	ABC transporter ATP-binding protein	85	1	2.03181E-9	100.0	2	P:GO:0006744; F:GO:0005524	P:ubiquinone biosynthetic process; F:ATP binding					
+true	[BLASTED]	mtb_smORF174_3593570_3593767_plus	hypothetical protein MRGA327_19780	65	1	6.2685E-22	100.0								
+true	[NO-BLAST]	mtb_smORF175_3597533_3597802_plus	---NA---	89											
+true	[BLASTED]	mtb_smORF176_3610046_3610243_plus	Uncharacterised protein	65	3	7.36261E-27	88.04								
+true	[BLASTED]	mtb_smORF177_3639944_3640066_plus	hypothetical protein I917_22890	40	1	3.74587E-7	100.0								
+true	[NO-BLAST]	mtb_smORF178_3708155_3708205_plus	---NA---	16											
+true	[NO-BLAST]	mtb_smORF179_3720902_3721123_plus	---NA---	73											
+true	[BLASTED]	mtb_smORF180_3753509_3753724_plus	Uncharacterised protein	71	2	1.09492E-9	98.84								
+true	[NO-BLAST]	mtb_smORF181_3798512_3798805_plus	---NA---	97											
+true	[BLASTED]	mtb_smORF182_3798956_3799063_plus	hypothetical protein MT3491.1	35	2	9.80006E-16	100.0								
+true	[BLASTED, MAPPED]	mtb_smORF183_3799118_3799306_plus	multidrug transporter	62	14	1.59281E-36	79.26	10	P:GO:0015871; P:GO:0031460; P:GO:0046677; P:GO:0055085; F:GO:0015199; F:GO:0015220; F:GO:0015297; F:GO:0022857; C:GO:0005886; C:GO:0016020	P:choline transport; P:glycine betaine transport; P:response to antibiotic; P:transmembrane transport; F:amino-acid betaine transmembrane transporter activity; F:choline transmembrane transporter activity; F:antiporter activity; F:transmembrane transporter activity; C:plasma membrane; C:membrane					
+true	[BLASTED]	mtb_smORF184_3843605_3843865_plus	Uncharacterised protein	86	17	6.99447E-55	97.05								
+true	[BLASTED]	mtb_smORF185_3965423_3965620_plus	IS21 family transposase	65	20	2.19352E-38	98.37								
+true	[NO-BLAST]	mtb_smORF186_3997712_3997819_plus	---NA---	35											
+true	[BLASTED]	mtb_smORF187_4008284_4008448_plus	hypothetical protein BCGT_3432	54	1	7.82533E-31	100.0								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF188_4008461_4008562_plus	type II toxin-antitoxin system VapB family antitoxin	33	20	4.53565E-13	94.98	2	P:GO:0006355; F:GO:0016740	P:regulation of DNA-templated transcription; F:transferase activity	EC:2	Transferases			
+true	[BLASTED]	mtb_smORF189_4205246_4205515_plus	Uncharacterised protein	89	1	1.45469E-37	100.0								
+true	[BLASTED]	mtb_smORF190_4215809_4216081_plus	hypothetical protein	90	1	2.38755E-35	100.0								
+true	[NO-BLAST]	mtb_smORF191_4376090_4376377_plus	---NA---	95											
+true	[BLASTED]	mtb_smORF192_4393088_4393300_plus	hypothetical protein BTU11_21450	70	4	8.07688E-41	100.0								
+true	[BLASTED]	mtb_smORF193_230481_230630_plus	hypothetical protein MT0204.1	49	2	7.43385E-26	100.0								
+true	[BLASTED]	mtb_smORF194_316371_316568_plus	hypothetical protein	65	1	1.57457E-14	100.0								
+true	[NO-BLAST]	mtb_smORF195_333126_333380_plus	---NA---	84											
+true	[BLASTED]	mtb_smORF196_424614_424898_plus	hypothetical protein VNDN105_03680	94	1	7.4757E-33	100.0								
+true	[NO-BLAST]	mtb_smORF197_665262_665540_plus	---NA---	92											
+true	[BLASTED]	mtb_smORF198_665667_665831_plus	Uncharacterised protein	54	1	6.49437E-32	100.0								
+true	[NO-BLAST]	mtb_smORF199_702255_702467_plus	---NA---	70											
+true	[BLASTED]	mtb_smORF200_704520_704759_plus	Uncharacterised protein	79	20	6.6515E-33	99.24								
+true	[BLASTED]	mtb_smORF201_733458_733718_plus	preprotein translocase subunit SecE	86	1	1.98296E-5	66.0								
+true	[NO-BLAST]	mtb_smORF202_878424_878660_plus	---NA---	78											
+true	[NO-BLAST]	mtb_smORF203_895512_895784_plus	---NA---	90											
+true	[NO-BLAST]	mtb_smORF204_924666_924878_plus	---NA---	70											
+true	[BLASTED]	mtb_smORF205_931818_931994_plus	Uncharacterised protein	58	1	2.57727E-34	100.0								
+true	[BLASTED]	mtb_smORF206_996186_996467_plus	Uncharacterised protein	93	1	1.46552E-35	100.0								
+true	[NO-BLAST]	mtb_smORF207_1052526_1052732_plus	---NA---	68											
+true	[BLASTED]	mtb_smORF208_1176228_1176485_plus	Fic family protein	85	10	1.46167E-55	99.38								
+true	[BLASTED]	mtb_smORF209_1195992_1196228_plus	Uncharacterised protein	78	3	9.70033E-50	100.0								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF210_1264338_1264556_plus	acetyl-CoA acetyltransferase	72	20	1.29841E-45	98.89	1	F:GO:0016747	F:acyltransferase activity, transferring groups other than amino-acyl groups	EC:2.3.1	Acyltransferases			
+true	[BLASTED]	mtb_smORF211_1282890_1283036_plus	DUF1059 domain-containing protein	48	20	8.16266E-27	98.02								
+true	[BLASTED]	mtb_smORF212_1338507_1338776_plus	Uncharacterised protein	89	3	4.84906E-56	98.41								
+true	[NO-BLAST]	mtb_smORF213_1409265_1409522_plus	---NA---	85											
+true	[BLASTED]	mtb_smORF214_1425870_1426052_plus	Uncharacterised protein	60	2	6.77204E-23	100.0								
+true	[BLASTED, MAPPED]	mtb_smORF215_1474818_1474901_plus	Uncharacterised protein	27	20	1.18938E-6	88.52	6	P:GO:0015979; C:GO:0009507; C:GO:0009522; C:GO:0009535; C:GO:0009579; C:GO:0016020	P:photosynthesis; C:chloroplast; C:photosystem I; C:chloroplast thylakoid membrane; C:thylakoid; C:membrane					
+true	[NO-BLAST]	mtb_smORF216_1524783_1524962_plus	---NA---	59											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF217_1589199_1589501_plus	alanine racemase	100	20	2.03003E-43	99.23	3	P:GO:0036088; F:GO:0008721; F:GO:0043876	P:D-serine catabolic process; F:D-serine ammonia-lyase activity; F:D-threonine aldolase activity	EC:4.3.1.18; EC:4.1.2.42	D-serine ammonia-lyase; D-threonine aldolase			
+true	[NO-BLAST]	mtb_smORF218_1692630_1692800_plus	---NA---	56											
+true	[BLASTED]	mtb_smORF219_1774863_1775120_plus	hypothetical protein	85	1	1.16513E-9	96.88								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF220_1842168_1842428_plus	Uncharacterised protein	86	17	4.20414E-55	95.85	1	F:GO:0016757	F:glycosyltransferase activity	EC:2.4	Glycosyltransferases			
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF221_1899972_1900247_plus	Conserved exported protein of uncharacterised function	91	20	6.57548E-41	98.12	1	C:GO:0016020	C:membrane					
+true	[NO-BLAST]	mtb_smORF222_1934403_1934555_plus	---NA---	50											
+true	[NO-BLAST]	mtb_smORF223_1957407_1957565_plus	---NA---	52											
+true	[NO-BLAST]	mtb_smORF224_2041812_2041988_plus	---NA---	58											
+true	[BLASTED]	mtb_smORF225_2124897_2125094_plus	hypothetical protein NCGM2209_2209	65	4	3.69928E-15	84.38								
+true	[BLASTED]	mtb_smORF226_2136030_2136218_plus	hypothetical protein, partial	62	1	7.83595E-23	100.0								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF227_2206950_2207207_plus	hypothetical protein MRA_1974	85	7	4.70964E-54	99.33	1	C:GO:0016020	C:membrane					
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF228_2232399_2232671_plus	PIN domain-containing protein	90	20	7.30236E-41	94.42	4	P:GO:0035821; F:GO:0000287; F:GO:0004540; F:GO:0090729	P:modulation of process of another organism; F:magnesium ion binding; F:RNA nuclease activity; F:toxin activity	EC:3.1	Acting on ester bonds			
+true	[NO-BLAST]	mtb_smORF229_2256450_2256668_plus	---NA---	72											
+true	[NO-BLAST]	mtb_smORF230_2332842_2333144_plus	---NA---	100											
+true	[NO-BLAST]	mtb_smORF231_2402646_2402867_plus	---NA---	73											
+true	[BLASTED]	mtb_smORF232_2481594_2481857_plus	Uncharacterised protein	87	2	1.24485E-54	100.0								
+true	[BLASTED]	mtb_smORF233_2594520_2594732_plus	Uncharacterised protein	70	3	2.98693E-42	77.61								
+true	[NO-BLAST]	mtb_smORF234_2614188_2614391_plus	---NA---	67											
+true	[BLASTED]	mtb_smORF235_2626350_2626577_plus	Uncharacterised protein	75	9	4.96195E-33	88.12								
+true	[BLASTED]	mtb_smORF236_2713887_2714078_plus	predicted protein	63	2	2.8203E-37	100.0								
+true	[NO-BLAST]	mtb_smORF237_2732871_2732933_plus	---NA---	20											
+true	[BLASTED]	mtb_smORF238_2775483_2775632_plus	Uncharacterised protein	49	4	6.61068E-26	100.0								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF239_2786232_2786519_plus	Conserved exported protein of uncharacterised function	95	7	7.8624E-50	92.47	1	C:GO:0016020	C:membrane					
+true	[BLASTED]	mtb_smORF240_2881845_2882147_plus	Protein of uncharacterised function (DUF2652)	100	20	1.08474E-67	99.8								
+true	[NO-BLAST]	mtb_smORF241_2969127_2969306_plus	---NA---	59											
+true	[BLASTED]	mtb_smORF242_2969355_2969537_plus	hypothetical protein BN9982_800014	60	1	8.89054E-34	98.33								
+true	[BLASTED]	mtb_smORF243_3053589_3053855_plus	hypothetical protein MT2810	88	6	3.10396E-35	99.43								
+true	[BLASTED]	mtb_smORF244_3357378_3357554_plus	Uncharacterised protein	58	18	5.20834E-21	99.33								
+true	[BLASTED]	mtb_smORF245_3394842_3395126_plus	Uncharacterised protein	94	3	3.31147E-51	99.28								
+true	[BLASTED]	mtb_smORF246_3421278_3421430_plus	putative secreted protein	50	9	1.16059E-13	95.11								
+true	[NO-BLAST]	mtb_smORF247_3421500_3421640_plus	---NA---	46											
+true	[BLASTED]	mtb_smORF248_3486336_3486512_plus	hypothetical protein	58	1	8.75759E-7	100.0								
+true	[BLASTED]	mtb_smORF249_3494538_3494783_plus	pyridoxamine 5'-phosphate oxidase family protein	81	20	2.89409E-16	73.58								
+true	[BLASTED]	mtb_smORF250_3547335_3547613_plus	Uncharacterised protein	92	2	1.66452E-58	98.86								
+true	[BLASTED]	mtb_smORF251_3556749_3556973_plus	Uncharacterised protein	74	2	1.0035E-27	100.0								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF252_3593562_3593852_plus	acetyltransferase	96	20	1.21943E-48	99.58	4	P:GO:0032918; F:GO:0004145; F:GO:0019809; C:GO:0005737	P:spermidine acetylation; F:diamine N-acetyltransferase activity; F:spermidine binding; C:cytoplasm	EC:2.3.1.57	Diamine N-acetyltransferase			
+true	[BLASTED]	mtb_smORF253_3640275_3640493_plus	predicted protein	72	20	2.67185E-46	75.68								
+true	[BLASTED]	mtb_smORF254_3661107_3661241_plus	hypothetical protein MT3378	44	1	3.65242E-22	100.0								
+true	[NO-BLAST]	mtb_smORF255_3700344_3700643_plus	---NA---	99											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF256_3841347_3841610_plus	histone acetyltransferase	87	20	1.01155E-56	98.68	8	P:GO:0006338; P:GO:0044068; F:GO:0003682; F:GO:0010484; F:GO:0042393; C:GO:0005576; C:GO:0030430; C:GO:0042025	P:chromatin remodeling; P:symbiont-mediated perturbation of host cellular process; F:chromatin binding; F:histone H3 acetyltransferase activity; F:histone binding; C:extracellular region; C:host cell cytoplasm; C:host cell nucleus	EC:2.3.1.48	Histone acetyltransferase			
+true	[NO-BLAST]	mtb_smORF257_3849735_3849797_plus	---NA---	20											
+true	[NO-BLAST]	mtb_smORF258_3874875_3875063_plus	---NA---	62											
+true	[NO-BLAST]	mtb_smORF259_3892986_3893186_plus	---NA---	66											
+true	[NO-BLAST]	mtb_smORF260_3906912_3907121_plus	---NA---	69											
+true	[BLASTED]	mtb_smORF261_4018101_4018274_plus	Uncharacterised protein	57	3	9.77188E-31	100.0								
+true	[BLASTED]	mtb_smORF262_4075560_4075682_plus	transmembrane protein	40	5	3.8321E-20	99.5								
+true	[NO-BLAST]	mtb_smORF263_4100832_4101059_plus	---NA---	75												
+true	[BLASTED]	mtb_smORF264_4211856_4212122_plus	Uncharacterised protein	88	2	7.18077E-39	91.78								
+true	[NO-BLAST]	mtb_smORF265_4288068_4288283_plus	---NA---	71											
+true	[BLASTED]	mtb_smORF266_4310811_4311032_plus	MULTISPECIES: hypothetical protein	73	20	5.31985E-45	98.56								
+true	[BLASTED]	mtb_smORF267_4317432_4317602_plus	hypothetical protein CAB90_04306	56	1	8.46551E-33	100.0								
+true	[NO-BLAST]	mtb_smORF268_4329555_4329818_plus	---NA---	87											
+true	[BLASTED]	mtb_smORF269_4329834_4330067_plus	hypothetical protein BN9982_690009	77	1	6.02987E-49	100.0								
+true	[BLASTED]	mtb_smORF270_4410873_4411166_plus	50S ribosomal protein L34	97	6	2.18437E-44	75.96								
+true	[BLASTED]	mtb_smORF271_4405167_4405379_-	Uncharacterised protein	70	1	2.62975E-42	100.0								
+true	[NO-BLAST]	mtb_smORF272_4336374_4336439_-	---NA---	21											
+true	[BLASTED]	mtb_smORF273_4323384_4323542_-	Uncharacterised protein	52	3	1.16688E-28	98.61								
+true	[NO-BLAST]	mtb_smORF274_4316550_4316720_-	---NA---	56											
+true	[NO-BLAST]	mtb_smORF275_4287912_4288190_-	---NA---	92											
+true	[NO-BLAST]	mtb_smORF276_4281483_4281662_-	---NA---	59											
+true	[BLASTED]	mtb_smORF277_4266759_4267001_-	Uncharacterised protein	80	3	1.70682E-36	100.0								
+true	[NO-BLAST]	mtb_smORF278_4218675_4218977_-	---NA---	100											
+true	[NO-BLAST]	mtb_smORF279_4169397_4169612_-	---NA---	71											
+true	[BLASTED]	mtb_smORF280_4077711_4077884_-	TetR/AcrR family transcriptional regulator	57	2	2.46999E-18	94.34								
+true	[BLASTED]	mtb_smORF281_3926334_3926630_-	Uncharacterised protein	98	3	1.65428E-61	99.66								
+true	[BLASTED, MAPPED]	mtb_smORF282_3892131_3892313_-	alpha/beta hydrolase	60	20	6.53626E-34	100.0	2	F:GO:0003824; F:GO:0016787	F:catalytic activity; F:hydrolase activity					
+true	[NO-BLAST]	mtb_smORF283_3875853_3876068_-	---NA---	71											
+true	[BLASTED]	mtb_smORF284_3849024_3849188_-	Transposase	54	20	9.9821E-30	98.77								
+true	[NO-BLAST]	mtb_smORF285_3834783_3834968_-	---NA---	61											
+true	[BLASTED]	mtb_smORF286_3755328_3755507_-	transposase	59	20	6.87559E-35	99.15								
+true	[NO-BLAST]	mtb_smORF287_3742881_3743039_-	---NA---	52											
+true	[BLASTED]	mtb_smORF288_3642963_3643178_-	conserved hypothetical protein	71	2	9.43719E-30	97.5								
+true	[BLASTED]	mtb_smORF289_3558798_3558977_-	predicted protein	59	6	1.07429E-6	100.0								
+true	[BLASTED]	mtb_smORF290_3551046_3551282_-	Uncharacterised protein	78	6	1.18913E-33	88.05								
+true	[NO-BLAST]	mtb_smORF291_3550122_3550337_-	---NA---	71											
+true	[BLASTED]	mtb_smORF292_3511314_3511505_-	Uncharacterised protein	63	1	3.6149E-34	100.0								
+true	[BLASTED]	mtb_smORF293_3414936_3415118_-	hypothetical protein DSI80_14455, partial	60	8	2.31073E-36	99.79								
+true	[BLASTED]	mtb_smORF294_3378495_3378662_-	PPE family protein	55	20	5.43345E-19	98.63								
+true	[BLASTED]	mtb_smORF295_3376749_3377036_-	PPE family protein	95	9	6.28663E-50	98.78								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF296_3310608_3310820_-	putative glycosyl transferase	70	3	2.06893E-37	96.58	2	P:GO:0009058; F:GO:0050511	P:biosynthetic process; F:undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity	EC:2.4.1.227	Undecaprenyldiphospho-muramoylpentapeptide beta-N-			
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF297_3310272_3310379_-	GDP-L-fucose synthase	35	20	2.54299E-15	82.2	1	F:GO:0016757	F:glycosyltransferase activity	EC:2.4	Glycosyltransferases			
+true	[NO-BLAST]	mtb_smORF298_3241926_3242057_-	---NA---	43											
+true	[BLASTED]	mtb_smORF299_3187503_3187763_-	Uncharacterised protein	86	1	3.94169E-38	100.0								
+true	[BLASTED]	mtb_smORF300_3167964_3168116_-	hypothetical protein I552_4634	50	1	2.03262E-6	73.47								
+true	[BLASTED]	mtb_smORF301_3123537_3123692_-	Putative CRISPR-associated RNAse Cas2	51	1	3.81064E-15	89.74								
+true	[NO-BLAST]	mtb_smORF302_3119097_3119228_-	---NA---	43											
+true	[NO-BLAST]	mtb_smORF303_2982054_2982338_-	---NA---	94											
+true	[BLASTED]	mtb_smORF304_2949342_2949599_-	acyl-[acyl-carrier protein] desaturase desA1	85	1	7.64835E-6	100.0								
+true	[NO-BLAST]	mtb_smORF305_2882070_2882189_-	---NA---	39											
+true	[BLASTED]	mtb_smORF306_2850843_2851067_-	hypothetical protein	74	1	1.15755E-26	100.0								
+true	[NO-BLAST]	mtb_smORF307_2692104_2692337_-	---NA---	77											
+true	[BLASTED]	mtb_smORF308_2680008_2680226_-	hypothetical protein BN9982_240015	72	1	4.36822E-44	100.0								
+true	[BLASTED]	mtb_smORF309_2637165_2637443_-	Uncharacterised protein	92	20	1.1309E-59	98.78								
+true	[BLASTED]	mtb_smORF310_2632362_2632565_-	Uncharacterised protein	67	1	7.71181E-29	100.0								
+true	[BLASTED]	mtb_smORF311_2614068_2614352_-	Uncharacterised protein	94	6	1.08317E-61	98.23								
+true	[NO-BLAST]	mtb_smORF312_2582760_2582975_-		71											
+true	[BLASTED]	mtb_smORF313_2555925_2556146_-	Uncharacterised protein	73	20	2.48004E-45	98.09								
+true	[BLASTED]	mtb_smORF314_2447991_2448221_-	Uncharacterised protein	76	2	1.11015E-27	99.34								
+true	[BLASTED]	mtb_smORF315_2367111_2367410_-	PPE family protein	99	3	1.4023E-39	97.14								
+true	[BLASTED]	mtb_smORF316_2365230_2365466_-	MarR family transcriptional regulator	78	6	9.1592E-5	71.14								
+true	[BLASTED]	mtb_smORF317_2357907_2358206_-	PE family protein	99	8	2.22352E-21	98.23								
+true	[BLASTED]	mtb_smORF318_2357535_2357693_-	Uncharacterised protein	52	7	9.88523E-27	99.73								
+true	[BLASTED]	mtb_smORF319_2343960_2344172_-	Uncharacterised protein	70	1	1.68813E-29	100.0								
+true	[BLASTED]	mtb_smORF320_2307009_2307239_-	polyketide synthase	76	2	5.74975E-28	95.16								
+true	[BLASTED]	mtb_smORF321_2233881_2234051_-	dehydrogenase	56	20	1.57936E-19	99.42								
+true	[BLASTED]	mtb_smORF322_2228655_2228828_-	LysR family transcriptional regulator	57	2	3.25524E-29	83.33								
+true	[BLASTED]	mtb_smORF323_2198418_2198600_-	MULTISPECIES: hypothetical protein	60	16	3.79782E-22	98.23								
+true	[BLASTED]	mtb_smORF324_2152953_2153174_-	Uncharacterised protein	73	8	1.80435E-43	99.71								
+true	[NO-BLAST]	mtb_smORF325_2150826_2150999_-	---NA---	57											
+true	[BLASTED]	mtb_smORF326_1852071_1852304_-	hypothetical protein IU15_06080	77	1	7.31283E-9	79.25								
+true	[NO-BLAST]	mtb_smORF327_1764816_1765025_-	---NA---	69											
+true	[NO-BLAST]	mtb_smORF328_1728402_1728608_-	---NA---	68											
+true	[BLASTED]	mtb_smORF329_1710681_1710890_-	Uncharacterised protein	69	1	7.14449E-41	100.0								
+true	[BLASTED]	mtb_smORF330_1696398_1696574_-	class I SAM-dependent methyltransferase	58	20	3.34217E-33	89.65								
+true	[BLASTED]	mtb_smORF331_1692708_1692989_-	hypothetical protein	93	1	1.60361E-45	100.0								
+true	[BLASTED]	mtb_smORF332_1563486_1563707_-	hypothetical protein MRGA327_08695	73	8	1.5782E-44	99.66								
+true	[NO-BLAST]	mtb_smORF333_1539177_1539389_-	---NA---	70											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF334_1517304_1517492_-	acyl-CoA dehydrogenase family protein	62	20	4.32441E-35	86.41	3	P:GO:0006552; F:GO:0008470; F:GO:0043958	P:L-leucine catabolic process; F:isovaleryl-CoA dehydrogenase activity; F:acryloyl-CoA reductase (NADH) activity	EC:1.3.1.95; EC:1.3.8.4; EC:1.3.8.1	Acryloyl-CoA reductase (NADH); Isovaleryl-CoA dehydrogenase; Short-chain acyl-CoA dehydrogenase			
+true	[BLASTED, MAPPED]	mtb_smORF335_1476507_1476719_-	hypothetical protein DFS55_17855	70	20	1.36615E-29	65.24	1	C:GO:0016020	C:membrane					
+true	[BLASTED]	mtb_smORF336_1417395_1417646_-	Hypothetical protein ERS027665_01283	83	7	5.13948E-55	99.83								
+true	[NO-BLAST]	mtb_smORF337_1384146_1384337_-	---NA---	63											
+true	[BLASTED]	mtb_smORF338_1340601_1340828_-	Uncharacterised protein	75	9	2.95324E-34	88.23								
+true	[BLASTED]	mtb_smORF339_1272036_1272167_-	Uncharacterised protein	43	20	5.1122E-22	98.6											
+true	[NO-BLAST]	mtb_smORF340_1180509_1180763_-	---NA---	84											
+true	[BLASTED]	mtb_smORF341_1176978_1177262_-	Uncharacterised protein	94	2	2.44977E-6	77.82								
+true	[BLASTED]	mtb_smORF342_1163793_1164014_-	hypothetical protein CAB90_01187	73	2	2.89099E-44	95.65								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF343_1114173_1114382_-	methyltransferase	69	20	6.55975E-43	99.06	2	P:GO:0032259; F:GO:0008168	P:methylation; F:methyltransferase activity	EC:2.1.1	Transferring one-carbon groups			
+true	[BLASTED]	mtb_smORF344_1073823_1074104_-	Uncharacterised protein	93	1	1.42584E-47	100.0								
+true	[BLASTED]	mtb_smORF345_1057173_1057391_-	secreted antigen 85-C FbpC_2	72	5	7.52837E-40	100.0								
+true	[BLASTED]	mtb_smORF346_1024017_1024280_-	Uncharacterised protein	87	2	1.55573E-54	100.0								
+true	[NO-BLAST]	mtb_smORF347_986022_986270_-	---NA---	82											
+true	[BLASTED]	mtb_smORF348_948573_948773_-	Uncharacterized protein BCGR_0947	66	1	2.54589E-38	100.0								
+true	[NO-BLAST]	mtb_smORF349_944589_944888_-	---NA---	99											
+true	[BLASTED, MAPPED]	mtb_smORF350_934293_934481_-	CocE/NonD family hydrolase	62	20	7.89497E-24	66.19	2	F:GO:0008239; F:GO:0016787	F:dipeptidyl-peptidase activity; F:hydrolase activity					
+true	[NO-BLAST]	mtb_smORF351_874470_874658_-	---NA---	62											
+true	[NO-BLAST]	mtb_smORF352_835059_835205_-	---NA---	48											
+true	[NO-BLAST]	mtb_smORF353_759129_759299_-	---NA---	56											
+true	[BLASTED]	mtb_smORF354_718137_718388_-	Uncharacterised protein	83	1	2.11573E-7	74.36								
+true	[NO-BLAST]	mtb_smORF355_710769_711065_-	---NA---	98											
+true	[BLASTED]	mtb_smORF356_704475_704672_-	Uncharacterised protein	65	16	1.53342E-40	90.22								
+true	[BLASTED]	mtb_smORF357_688293_688538_-	Uncharacterised protein	81	1	2.47599E-47	100.0								
+true	[NO-BLAST]	mtb_smORF358_653820_653876_-	---NA---	18											
+true	[NO-BLAST]	mtb_smORF359_612216_612362_-	---NA---	48											
+true	[NO-BLAST]	mtb_smORF360_610935_611051_-	---NA---	38											
+true	[BLASTED]	mtb_smORF361_551580_551879_-	Uncharacterized protein conserved in bacteria	99	1	1.78927E-18	100.0								
+true	[NO-BLAST]	mtb_smORF362_476250_476477_-	---NA---	75											
+true	[NO-BLAST]	mtb_smORF363_289002_289172_-	---NA---	56											
+true	[NO-BLAST]	mtb_smORF364_274710_274862_-	---NA---	50											
+true	[NO-BLAST]	mtb_smORF365_258420_258656_-	---NA---	78											
+true	[BLASTED]	mtb_smORF366_258123_258383_-	butyryl-CoA dehydrogenase	86	1	1.38103E-26	87.5								
+true	[BLASTED]	mtb_smORF367_230466_230765_-	Uncharacterised protein	99	6	4.77251E-65	96.43								
+true	[BLASTED]	mtb_smORF368_156399_156680_-	Secreted antigen 85-C FbpC (85C) (antigen 85 complex C) (Ag58C) (mycolyl transferase 85C) (fibronectin-binding protein C)	93	1	3.77417E-19	100.0								
+true	[BLASTED]	mtb_smORF369_65400_65687_-	Uncharacterised protein	95	19	4.28859E-51	99.25								
+true	[BLASTED]	mtb_smORF370_57930_58211_-	Uncharacterised protein	93	1	1.75956E-59	100.0								
+true	[BLASTED]	mtb_smORF371_31824_31967_-	Uncharacterised protein	47	20	1.86484E-24	96.8								
+true	[BLASTED]	mtb_smORF372_12360_12569_-	Uncharacterised protein	69	1	2.18145E-41	100.0								
+true	[BLASTED]	mtb_smORF373_1713_1889_-	Uncharacterised protein	58	2	4.44725E-33	100.0								
+true	[BLASTED]	mtb_smORF374_4321277_4321486_-	Uncharacterised protein	69	4	3.83585E-40	95.83								
+true	[BLASTED]	mtb_smORF375_4320254_4320433_-	Uncharacterised protein	59	20	1.0341E-33	98.83								
+true	[BLASTED]	mtb_smORF376_4319855_4319947_-	Uncharacterised protein	30	2	1.33644E-11	100.0								
+true	[BLASTED]	mtb_smORF377_4317521_4317652_-	Transposase (fragment)	43	3	3.26875E-12	100.0								
+true	[BLASTED, MAPPED]	mtb_smORF378_4278185_4278301_-	twitching motility protein PilT	38	7	4.97099E-17	89.28	6	P:GO:0035821; F:GO:0000287; F:GO:0004518; F:GO:0004540; F:GO:0046872; F:GO:0090729	P:modulation of process of another organism; F:magnesium ion binding; F:nuclease activity; F:RNA nuclease activity; F:metal ion binding; F:toxin activity					
+true	[BLASTED]	mtb_smORF379_4205516_4205779_-	Uncharacterised protein	87	4	4.25286E-36	87.49								
+true	[BLASTED]	mtb_smORF380_4190276_4190575_-	PPE family protein	99	2	1.98277E-22	100.0								
+true	[NO-BLAST]	mtb_smORF381_4172792_4173025_-	---NA---	77											
+true	[BLASTED]	mtb_smORF382_3987248_3987463_-	short chain dehydrogenase	71	1	1.33862E-32	100.0								
+true	[BLASTED]	mtb_smORF383_3950609_3950824_-	Uncharacterised protein	71	13	1.53483E-42	99.78								
+true	[NO-BLAST]	mtb_smORF384_3939290_3939511_-	---NA---	73											
+true	[BLASTED]	mtb_smORF385_3930815_3931006_-	Uncharacterised protein	63	5	4.09728E-38	100.0								
+true	[BLASTED]	mtb_smORF386_3905702_3905800_-	Uncharacterised protein	32	1	2.01182E-13	100.0								
+true	[BLASTED]	mtb_smORF387_3880013_3880189_-	Uncharacterised protein	58	2	4.19669E-34	97.83								
+true	[BLASTED]	mtb_smORF388_3846995_3847231_-	transposase	78	1	9.81456E-37	97.44								
+true	[BLASTED]	mtb_smORF389_3846053_3846271_-	integrase	72	20	4.37699E-31	98.81								
+true	[BLASTED]	mtb_smORF390_3842069_3842305_-	transposase	78	1	1.56938E-38	100.0								
+true	[BLASTED]	mtb_smORF391_3755234_3755524_-	hypothetical protein MTBK_35390	96	3	4.63245E-20	100.0								
+true	[BLASTED]	mtb_smORF392_3642890_3643087_-	hypothetical protein, partial	65	2	1.2473E-21	86.67								
+true	[NO-BLAST]	mtb_smORF393_3600602_3600817_-	---NA---	71											
+true	[NO-BLAST]	mtb_smORF394_3548867_3549085_-	---NA---	72											
+true	[NO-BLAST]	mtb_smORF395_3521960_3522079_-	---NA---	39											
+true	[BLASTED]	mtb_smORF396_3494330_3494539_-	PPE family protein	69	5	1.92588E-44	89.28								
+true	[BLASTED]	mtb_smORF397_3493538_3493804_-	hypothetical protein	88	2	9.58338E-38	97.25								
+true	[BLASTED]	mtb_smORF398_3491702_3491866_-	Uncharacterised protein	54	20	6.69147E-19	90.74								
+true	[NO-BLAST]	mtb_smORF399_3480641_3480865_-	---NA---	74											
+true	[BLASTED]	mtb_smORF400_3457769_3458071_-	Uncharacterised protein	100	20	3.84742E-66	99.2								
+true	[BLASTED]	mtb_smORF401_3350990_3351262_-	2-hydroxyhepta-2%2C4-diene-1%2C7-dioate isomerase	90	20	5.47812E-21	92.44								
+true	[NO-BLAST]	mtb_smORF402_3276170_3276334_-	---NA---	54											
+true	[NO-BLAST]	mtb_smORF403_3174824_3175090_-	---NA---	88											
+true	[BLASTED]	mtb_smORF404_3119255_3119551_-	Uncharacterised protein	98	20	1.30342E-46	80.98								
+true	[BLASTED]	mtb_smORF405_2971994_2972161_-	helix-turn-helix transcriptional regulator	55	16	6.34325E-9	78.34								
+true	[NO-BLAST]	mtb_smORF406_2775296_2775433_-	---NA---	45											
+true	[BLASTED]	mtb_smORF407_2725595_2725861_-	LysR family transcriptional regulator	88	20	3.86541E-53	97.49								
+true	[NO-BLAST]	mtb_smORF408_2584922_2585122_-	---NA---	66											
+true	[BLASTED]	mtb_smORF409_2581424_2581705_-	Uncharacterised protein	93	7	7.41315E-61	98.7								
+true	[BLASTED]	mtb_smORF410_2580038_2580253_-	excalibur calcium-binding domain-containing protein	71	12	9.09888E-28	82.16								
+true	[BLASTED]	mtb_smORF411_2578853_2579137_-	DUF3761 domain-containing protein	94	20	9.44219E-35	99.38								
+true	[BLASTED]	mtb_smORF412_2552120_2552311_-	Uncharacterised protein	63	2	6.23948E-35	100.0								
+true	[NO-BLAST]	mtb_smORF413_2528924_2529136_-	---NA---	70											
+true	[BLASTED]	mtb_smORF414_2498513_2498743_-	hypothetical protein, partial	76	1	1.1373E-23	98.44								
+true	[BLASTED]	mtb_smORF415_2487413_2487706_-	Uncharacterised protein	97	7	5.97594E-62	87.93								
+true	[NO-BLAST]	mtb_smORF416_2434421_2434666_-	---NA---	81											
+true	[NO-BLAST]	mtb_smORF417_2402093_2402158_-	---NA---	21											
+true	[BLASTED]	mtb_smORF418_2387969_2388175_-	PE family protein	68	20	4.96679E-12	99.49								
+true	[BLASTED]	mtb_smORF419_2367509_2367751_-	Uncharacterised protein	80	3	1.6711E-50	99.58								
+true	[BLASTED]	mtb_smORF420_2270447_2270563_-	hypothetical protein MT2083	38	1	4.69053E-17	100.0								
+true	[BLASTED]	mtb_smORF421_2260325_2260489_-	Uncharacterised protein	54	2	1.48882E-8	90.12								
+true	[NO-BLAST]	mtb_smORF422_2219540_2219755_-	---NA---	71											
+true	[NO-BLAST]	mtb_smORF423_2150765_2151028_-	---NA---	87											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF424_2138909_2139211_-	hypothetical protein I917_13400	100	1	3.06694E-12	96.97	2	P:GO:0032259; F:GO:0008168	P:methylation; F:methyltransferase activity	EC:2.1.1	Transferring one-carbon groups			
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF425_2124830_2125042_-	bacterioferritin-associated ferredoxin	70	20	2.33712E-17	99.14	2	F:GO:0046872; F:GO:0051537	F:metal ion binding; F:2 iron, 2 sulfur cluster binding					
+true	[BLASTED]	mtb_smORF426_2056256_2056546_-	Uncharacterised protein	96	2	2.20229E-63	100.0								
+true	[NO-BLAST]	mtb_smORF427_2052791_2053009_-	---NA---	72											
+true	[NO-BLAST]	mtb_smORF428_2038835_2039026_-	---NA---	63											
+true	[NO-BLAST]	mtb_smORF429_1999790_2000089_-	---NA---	99											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF430_1712057_1712257_-	Uncharacterised protein	66	15	6.66494E-39	98.27	1	F:GO:0016746	F:acyltransferase activity	EC:2.3	Acyltransferases			
+true	[NO-BLAST]	mtb_smORF431_1697837_1698013_-	---NA---	58											
+true	[BLASTED]	mtb_smORF432_1535510_1535788_-	hypothetical protein	92	1	1.8528E-38	100.0								
+true	[BLASTED]	mtb_smORF433_1518452_1518706_-	predicted protein	84	10	1.07871E-54	100.0								
+true	[BLASTED]	mtb_smORF434_1473134_1473394_-	Uncharacterised protein	86	20	1.7238E-51	90.78								
+true	[NO-BLAST]	mtb_smORF435_1222898_1223077_-	---NA---	59											
+true	[BLASTED]	mtb_smORF436_1176011_1176265_-	Mobile element protein	84	20	3.24543E-55	98.58								
+true	[NO-BLAST]	mtb_smORF437_1113575_1113838_-	---NA---	87											
+true	[NO-BLAST]	mtb_smORF438_1101443_1101733_-	---NA---	96											
+true	[BLASTED]	mtb_smORF439_1096526_1096720_-	PE-PGRS family protein	64	18	6.4105E-39	97.47								
+true	[NO-BLAST]	mtb_smORF440_1034606_1034788_-	---NA---	60											
+true	[BLASTED]	mtb_smORF441_986900_987136_-	hypothetical protein BN9982_40019	78	1	8.12437E-50	100.0								
+true	[BLASTED]	mtb_smORF442_980207_980344_-	Protein of uncharacterised function (DUF3071)	45	3	2.61165E-22	89.81								
+true	[BLASTED]	mtb_smORF443_947390_947593_-	Uncharacterised protein	67	7	2.36325E-39	97.19								
+true	[NO-BLAST]	mtb_smORF444_937730_938020_-	---NA---	96											
+true	[NO-BLAST]	mtb_smORF445_803327_803581_-	---NA---	84											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF446_799976_800272_-	putative transcriptional regulator	98	6	4.33408E-24	86.79	5	P:GO:0006355; P:GO:0046689; F:GO:0003677; F:GO:0003700; F:GO:0045340	P:regulation of DNA-templated transcription; P:response to mercury ion; F:DNA binding; F:DNA-binding transcription factor activity; F:mercury ion binding					
+true	[NO-BLAST]	mtb_smORF447_703220_703450_-	---NA---	76											
+true	[NO-BLAST]	mtb_smORF448_559658_559957_-	---NA---	99											
+true	[BLASTED]	mtb_smORF449_528311_528562_-	Uncharacterised protein	83	1	2.71023E-49	100.0								
+true	[BLASTED]	mtb_smORF450_476264_476458_-	Uncharacterised protein	64	20	6.77248E-39	97.73								
+true	[NO-BLAST]	mtb_smORF451_351803_352075_-	---NA---	90											
+true	[NO-BLAST]	mtb_smORF452_272894_273187_-	---NA---	97											
+true	[NO-BLAST]	mtb_smORF453_260732_261022_-	---NA---	96											
+true	[BLASTED]	mtb_smORF454_78896_79141_-	Uncharacterised protein	81	3	3.18252E-50	100.0								
+true	[NO-BLAST]	mtb_smORF455_13610_13903_-	---NA---	97											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF456_11123_11341_-	tyrosine-type recombinase/integrase	72	20	7.34068E-46	86.12	3	P:GO:0006310; P:GO:0015074; F:GO:0003677	P:DNA recombination; P:DNA integration; F:DNA binding					
+true	[BLASTED]	mtb_smORF457_4405207_4405494_-	hypothetical protein MT4035.1	95	10	2.45371E-62	91.97								
+true	[BLASTED]	mtb_smORF458_4340077_4340364_-	Uncharacterised protein	95	2	5.16067E-52	100.0								
+true	[BLASTED]	mtb_smORF459_4336096_4336377_-	Uncharacterised protein	93	11	3.47367E-59	81.6								
+true	[BLASTED]	mtb_smORF460_4316593_4316793_-	Uncharacterised protein	66	4	3.31509E-27	96.21								
+true	[BLASTED]	mtb_smORF461_4291459_4291614_-	hypothetical protein TBHG_04180	51	1	3.07749E-16	100.0								
+true	[BLASTED]	mtb_smORF462_4285720_4285974_-	Uncharacterised protein	84	1	5.40671E-43	100.0								
+true	[BLASTED]	mtb_smORF463_4198756_4199004_-	Uncharacterised protein	82	13	4.58864E-50	93.05								
+true	[BLASTED]	mtb_smORF464_4093393_4093536_-	conserved hypothetical protein	47	6	2.14672E-25	100.0								
+true	[NO-BLAST]	mtb_smORF465_4062340_4062528_-	---NA---	62											
+true	[BLASTED]	mtb_smORF466_3892516_3892767_-	hypothetical protein MRGA327_21430	83	1	8.29276E-19	97.62								
+true	[NO-BLAST]	mtb_smORF467_3875782_3875988_-	---NA---	68											
+true	[BLASTED]	mtb_smORF468_3874927_3875052_-	Uncharacterised protein	41	1	4.08135E-21	100.0								
+true	[BLASTED]	mtb_smORF469_3849226_3849330_-	Uncharacterised protein	34	4	4.97078E-14	96.43								
+true	[BLASTED]	mtb_smORF470_3846682_3846957_-	hypothetical protein, partial	91	20	1.63924E-46	93.9								
+true	[BLASTED]	mtb_smORF471_3842716_3842853_-	Uncharacterised protein	45	10	1.3857E-20	93.85								
+true	[NO-BLAST]	mtb_smORF472_3703972_3704127_-	---NA---	51											
+true	[BLASTED]	mtb_smORF473_3500908_3501093_-	Uncharacterised protein	61	7	2.42296E-35	99.53								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF474_3494317_3494424_-	Conserved protein of uncharacterised function%2C possible transposase remnant	35	20	3.0676E-15	94.29	2	P:GO:0015074; F:GO:0003676	P:DNA integration; F:nucleic acid binding					
+true	[BLASTED]	mtb_smORF475_3483844_3484065_-	Uncharacterised protein	73	2	1.64969E-10	89.16								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF476_3435718_3435855_-	LLM class flavin-dependent oxidoreductase	45	12	8.58118E-24	99.44	1	F:GO:0016705	F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	EC:1.14	Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2)			
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF477_3317869_3318135_-	Uncharacterised protein	88	3	4.84199E-55	100.0	1	C:GO:0016020	C:membrane					
+true	[NO-BLAST]	mtb_smORF478_3214492_3214740_-	---NA---	82											
+true	[BLASTED]	mtb_smORF479_3168154_3168411_-	Uncharacterised protein	85	2	6.64141E-25	89.41								
+true	[BLASTED]	mtb_smORF480_3121993_3122226_-	Uncharacterised protein	77	20	4.09873E-47	91.22								
+true	[BLASTED]	mtb_smORF481_3119305_3119541_-	Uncharacterised protein	78	20	9.66279E-49	96.75								
+true	[NO-BLAST]	mtb_smORF482_3042406_3042630_-	---NA---	74											
+true	[BLASTED]	mtb_smORF483_3034789_3035001_-	hypothetical protein	70	2	8.53673E-9	58.57								
+true	[BLASTED]	mtb_smORF484_2982406_2982579_-	Uncharacterised protein	57	1	2.75693E-34	100.0								
+true	[NO-BLAST]	mtb_smORF485_2973448_2973633_-	---NA---	61											
+true	[BLASTED, MAPPED]	mtb_smORF486_2969413_2969604_-	TIGR02611 family protein	63	1	1.10222E-5	100.0	1	C:GO:0016020	C:membrane					
+true	[BLASTED]	mtb_smORF487_2759617_2759919_-	Uncharacterised protein	100	2	1.68942E-33	92.0								
+true	[BLASTED]	mtb_smORF488_2732893_2733141_-	Uncharacterised protein	82	8	6.14066E-52	98.27								
+true	[BLASTED]	mtb_smORF489_2655187_2655309_-	Uncharacterised protein	40	1	3.41283E-20	100.0								
+true	[BLASTED, MAPPED]	mtb_smORF490_2636950_2637027_-	Uncharacterised protein	25	6	2.68802E-6	98.61	6	P:GO:0006412; P:GO:0006426; F:GO:0004812; F:GO:0004820; F:GO:0005524; C:GO:0005737	P:translation; P:glycyl-tRNA aminoacylation; F:aminoacyl-tRNA ligase activity; F:glycine-tRNA ligase activity; F:ATP binding; C:cytoplasm					
+true	[BLASTED]	mtb_smORF491_2619976_2620272_-	Uncharacterised protein	98	3	2.5823E-63	100.0								
+true	[BLASTED]	mtb_smORF492_2538550_2538645_-	hypothetical protein	31	1	4.79465E-12	100.0								
+true	[BLASTED]	mtb_smORF493_2453458_2453709_-	Uncharacterised protein	83	20	1.30994E-25	99.16								
+true	[BLASTED]	mtb_smORF494_2441659_2441934_-	Gp101	91	1	5.30853E-7	100.0								
+true	[NO-BLAST]	mtb_smORF495_2398582_2398773_-	---NA---	63											
+true	[BLASTED]	mtb_smORF496_2393638_2393796_-	Uncharacterised protein	52	9	3.72179E-29	97.44								
+true	[BLASTED]	mtb_smORF497_2367259_2367468_-	Uncharacterised protein	69	1	3.31644E-41	100.0								
+true	[BLASTED]	mtb_smORF498_2365051_2365125_-	IS3 family transposase	24	5	9.41227E-5	91.52								
+true	[BLASTED]	mtb_smORF499_2268268_2268513_-	Uncharacterised protein	81	20	1.32717E-51	100.0								
+true	[BLASTED]	mtb_smORF500_2263039_2263293_-	HNH endonuclease domain-containing protein	84	18	1.61521E-36	99.25								
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF501_2260021_2260260_-	type ISP restriction/modification enzyme	79	20	1.22832E-49	84.1	1	F:GO:0004386	F:helicase activity					
+true	[BLASTED]	mtb_smORF502_2259778_2259906_-	hypothetical protein BTB1458_2229	42	1	6.21752E-20	100.0								
+true	[BLASTED]	mtb_smORF503_2142388_2142630_-	Uncharacterised protein	80	3	5.1749E-33	100.0								
+true	[BLASTED]	mtb_smORF504_2125783_2125986_-	Uncharacterised protein	67	3	1.29796E-20	100.0								
+true	[BLASTED]	mtb_smORF505_2108848_2109075_-	predicted protein	75	1	1.25829E-34	100.0								
+true	[BLASTED]	mtb_smORF506_2059309_2059608_-	Uncharacterised protein	99	2	1.76572E-9	89.47								
+true	[BLASTED]	mtb_smORF507_2051134_2051403_-	Uncharacterised protein	89	4	6.44615E-46	89.59								
+true	[BLASTED]	mtb_smORF508_2030506_2030676_-	Conserved membrane protein of uncharacterised function	56	2	8.16966E-7	100.0								
+true	[NO-BLAST]	mtb_smORF509_1895959_1896258_-	---NA---	99											
+true	[BLASTED]	mtb_smORF510_1833346_1833588_-	Uncharacterised protein	80	2	9.17938E-51	100.0								
+true	[BLASTED]	mtb_smORF511_1789966_1790184_-	predicted protein	72	1	9.59509E-45	100.0								
+true	[BLASTED, MAPPED]	mtb_smORF512_1753405_1753578_-	PPE family protein	57	20	4.66587E-4	81.25	2	P:GO:0030031; P:GO:0052572	P:cell projection assembly; P:response to host immune response					
+true	[BLASTED]	mtb_smORF513_1746958_1747191_-	Uncharacterised protein	77	3	6.94393E-47	99.13								
+true	[NO-BLAST]	mtb_smORF514_1710700_1710936_-	---NA---	78											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF515_1693996_1694262_-	TDP-4-oxo-6-deoxy-D-glucose aminotransferase	88	20	3.2078E-56	99.89	3	P:GO:0000271; F:GO:0019180; F:GO:0030170	P:polysaccharide biosynthetic process; F:dTDP-4-amino-4,6-dideoxygalactose transaminase activity; F:pyridoxal phosphate binding	EC:2.6.1.59	dTDP-4-amino-4,6-dideoxygalactose transaminase			
+true	[BLASTED]	mtb_smORF516_1681078_1681287_-	Conserved membrane protein of uncharacterised function	69	1	1.44264E-35	100.0								
+true	[NO-BLAST]	mtb_smORF517_1679059_1679268_-	---NA---	69											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF518_1616365_1616592_-	transcriptional regulator	75	20	2.25319E-18	98.81	3	P:GO:0006355; F:GO:0000976; F:GO:0003700	P:regulation of DNA-templated transcription; F:transcription cis-regulatory region binding; F:DNA-binding transcription factor activity					
+true	[BLASTED]	mtb_smORF519_1540723_1540956_-	Uncharacterised protein	77	3	2.6896E-48	87.28								
+true	[BLASTED]	mtb_smORF520_1530973_1531197_-	Uncharacterised protein	74	20	8.56812E-47	99.12								
+true	[NO-BLAST]	mtb_smORF521_1473370_1473591_-	---NA---	73											
+true	[BLASTED]	mtb_smORF522_1472059_1472289_-	PG1 protein	76	20	7.96789E-47	87.64								
+true	[NO-BLAST]	mtb_smORF523_1455094_1455288_-	---NA---	64											
+true	[NO-BLAST]	mtb_smORF524_1371481_1371726_-	---NA---	81											
+true	[BLASTED]	mtb_smORF525_1340818_1340973_-	Conserved membrane protein of uncharacterised function	51	2	6.86998E-8	100.0								
+true	[BLASTED]	mtb_smORF526_1240861_1240962_-	Uncharacterised protein	33	2	3.61574E-15	100.0								
+true	[BLASTED]	mtb_smORF527_1240081_1240245_-	hypothetical protein	54	1	5.11561E-23	84.91								
+true	[NO-BLAST]	mtb_smORF528_1205755_1205970_-	---NA---	71											
+true	[BLASTED, MAPPED]	mtb_smORF529_1178437_1178649_-	DUF222 domain-containing protein	70	20	3.03541E-21	87.68	3	F:GO:0003676; F:GO:0004519; F:GO:0008270	F:nucleic acid binding; F:endonuclease activity; F:zinc ion binding					
+true	[NO-BLAST]	mtb_smORF530_1166896_1167045_-	---NA---	49											
+true	[BLASTED]	mtb_smORF531_1160095_1160358_-	transposase	87	20	6.82197E-41	99.94								
+true	[NO-BLAST]	mtb_smORF532_1135432_1135500_-	---NA---	22											
+true	[BLASTED]	mtb_smORF533_1093105_1093254_-	Uncharacterised protein	49	4	2.76805E-26	100.0								
+true	[NO-BLAST]	mtb_smORF534_1073959_1074129_-	---NA---	56											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF535_1057300_1057530_-	mycolyltransferase	76	20	9.77798E-48	99.01	1	F:GO:0016740	F:transferase activity	EC:2	Transferases			
+true	[NO-BLAST]	mtb_smORF536_1003831_1004046_-	---NA---	71											
+true	[NO-BLAST]	mtb_smORF537_996232_996399_-	---NA---	55											
+true	[NO-BLAST]	mtb_smORF538_962800_962964_-	---NA---	54											
+true	[NO-BLAST]	mtb_smORF539_948601_948876_-	---NA---	91											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF540_850342_850512_-	transposase	56	20	1.31396E-30	99.6	1	F:GO:0043565	F:sequence-specific DNA binding					
+true	[NO-BLAST]	mtb_smORF541_841015_841287_-	---NA---	90											
+true	[BLASTED]	mtb_smORF542_835015_835266_-	3-hydroxyisobutyrate dehydrogenase	83	1	1.08155E-4	100.0								
+true	[NO-BLAST]	mtb_smORF543_799843_800061_-	---NA---	72											
+true	[NO-BLAST]	mtb_smORF544_747835_748083_-	---NA---	82											
+true	[BLASTED]	mtb_smORF545_733438_733665_-	hypothetical protein MHPYR_280009	75	6	5.16157E-8	82.26								
+true	[BLASTED]	mtb_smORF546_704446_704649_-	oxidoreductase	67	1	8.83429E-13	100.0								
+true	[BLASTED]	mtb_smORF547_640723_640974_-	Conserved protein of uncharacterised function%2C possible antitoxin	83	1	1.65816E-9	100.0								
+true	[BLASTED]	mtb_smORF548_612565_612813_-	Uncharacterised protein	82	2	1.38159E-38	100.0								
+true	[BLASTED]	mtb_smORF549_591481_591777_-	hypothetical protein BIS44_4427	98	1	3.37077E-19	100.0								
+true	[NO-BLAST]	mtb_smORF550_565375_565590_-	---NA---	71											
+true	[BLASTED]	mtb_smORF551_545188_545418_-	Uncharacterised protein	76	4	1.72407E-48	99.34								
+true	[NO-BLAST]	mtb_smORF552_542014_542268_-	---NA---	84											
+true	[BLASTED]	mtb_smORF553_483820_484014_-	hypothetical protein	64	1	1.69059E-35	98.44								
+true	[NO-BLAST]	mtb_smORF554_296581_296826_-	---NA---	81											
+true	[BLASTED, MAPPED, ANNOTATED]	mtb_smORF555_180805_181029_-	PE-PGRS family protein	74	20	1.14446E-10	100.0	1	F:GO:0004725	F:protein tyrosine phosphatase activity	EC:3.1.3.48	Protein-tyrosine-phosphatase			
+true	[NO-BLAST]	mtb_smORF556_48034_48243_-	---NA---	69											
+true	[BLASTED]	mtb_smORF557_13024_13176_-	Uncharacterised protein	50	15	2.50271E-27	99.07								
