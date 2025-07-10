@@ -22,6 +22,7 @@ This repository contains supplementary materials and references for the manuscri
     - **Supplementary Table 4**: Functional annotation of predicted smORFs.
 
 - **hybrid_mtb_prediction.ipynb**: Jupyter Notebook for the hybrid model implementation.
+- **Additionally, the transcriptome raw data can be accessed via the following link:** https://drive.google.com/drive/folders/1q64BG9UpYWyoY8h-CVd22N9mGArnr8yV?usp=drive_link
 
 ## References
 
