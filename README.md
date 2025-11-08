@@ -12,14 +12,14 @@ This repository contains supplementary materials and references for the manuscri
     - **Supplementary File B**: BLAST results for transcript comparison with predicted mtb_smORFs.
     - **Supplementary File C**: Overlap analysis with pathogenic and non-pathogenic bacteria with mtb_smORFs.
     - **Supplementary File D**: Comparison of mtb_smORFs with _Trichophyton rubrum_ data.
-    - **Supplementary File**: Comparison of predicted smORFs with previous studies small proteins.
+    - **Supplementary File E**: Comparison of predicted smORFs with previous studies small proteins.
     - **Supplementary File F**: Output from Blast2GO functional annotation.
     - **Supplementary File G**: 16S rRNA sequences from 46 bacterial species.
-    - **Supplementary File H**: Performance metrics for smORFs across 46 bacterial genomes.
     - **Supplementary Table 1**: List of bacterial genomes used in the study.
     - **Supplementary Table 2**: Transcriptome dataset ID for M. tuberculosis.
     - **Supplementary Table 3**: _Trichophyton rubrum_ fungi dataset.
     - **Supplementary Table 4**: Functional annotation of predicted smORFs.
+    - **Supplementary Table 5**: Performance metrics on the hold-out test set across 46 bacterial genomes
 
 - **hybrid_mtb_prediction.ipynb**: Jupyter Notebook for the hybrid model implementation.
 - **Additionally, the transcriptome raw data can be accessed via the following link:** https://drive.google.com/drive/folders/1q64BG9UpYWyoY8h-CVd22N9mGArnr8yV?usp=drive_link
