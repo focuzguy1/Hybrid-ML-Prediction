@@ -49,7 +49,7 @@ This repository contains supplementary materials and computational workflows sup
 
 ---
 
-## ▶️ How to Run the Pipeline
+## How to Run the Pipeline
 
 ```bash
 cd transcriptome_pipeline
