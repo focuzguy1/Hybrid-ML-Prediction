@@ -5,22 +5,20 @@ set -euo pipefail
 ########################################
 #  Transcriptomics Pipeline
 # Author: Babalola Abdulhafeez Oluwabunmi
-# Purpose: Reproducible workflow
+# Purpose: workflow
 ########################################
 
-########################################
+
 # HOW TO RUN THIS SCRIPT
-########################################
 # bash pipeline.sh Read1.fastq.gz Read2.fastq.gz
 #
 # Example:
 # bash pipeline.sh sample_R1.fastq.gz sample_R2.fastq.gz
 #
-########################################
 
-########################################
+
+
 # INPUT VALIDATION
-########################################
 
 if [ "$#" -ne 2 ]; then
     echo "ERROR: Please provide R1 and R2 FASTQ files"
@@ -31,9 +29,8 @@ fi
 READ1=$1
 READ2=$2
 
-########################################
+
 # REFERENCES & TOOLS
-########################################
 
 REF_FA="index/GCF_000195955.2_ASM19595v2_genomic.fna"
 REF_GFF="index/GCF_000195955.2_ASM19595v2_genomic.gff"
@@ -43,17 +40,15 @@ ADAPTERS="TruSeq3-PE.fa"
 
 THREADS=8
 
-########################################
+
 # DIRECTORIES
-########################################
 
 mkdir -p qc trimmed aligned stringtie eval logs
 
 echo "Pipeline started at $(date)" | tee logs/pipeline.log
 
-########################################
+
 # STEP 1: QC & TRIMMING
-########################################
 
 echo "STEP 1: QC & Trimming" | tee -a logs/pipeline.log
 
@@ -70,10 +65,7 @@ fastqc trimmed/R1_paired.fastq trimmed/R2_paired.fastq -o qc/
 
 echo "QC completed" | tee -a logs/pipeline.log
 
-########################################
 # STEP 2: ALIGNMENT
-########################################
-
 echo "STEP 2: Alignment" | tee -a logs/pipeline.log
 
 if [ ! -f "${REF_FA}.bwt" ]; then
@@ -88,9 +80,7 @@ samtools index aligned/reads.sorted.bam
 
 echo "Alignment completed" | tee -a logs/pipeline.log
 
-########################################
 # STEP 3: TRANSCRIPT ASSEMBLY
-########################################
 
 echo "STEP 3: StringTie" | tee -a logs/pipeline.log
 
@@ -106,10 +96,8 @@ aligned/reads.sorted.bam
 
 echo "StringTie completed" | tee -a logs/pipeline.log
 
-########################################
-# STEP 4: EVALUATION
-########################################
 
+# STEP 4: EVALUATION
 echo "STEP 4: Evaluation" | tee -a logs/pipeline.log
 
 gffcompare -r $REF_GFF -G \
@@ -117,9 +105,5 @@ gffcompare -r $REF_GFF -G \
 stringtie/assembly.gtf
 
 echo "Evaluation completed" | tee -a logs/pipeline.log
-
-########################################
-# FINISH
-########################################
 
 echo "PIPELINE COMPLETED SUCCESSFULLY at $(date)" | tee -a logs/pipeline.log
