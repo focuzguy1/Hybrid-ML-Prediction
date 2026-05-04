@@ -15,7 +15,7 @@ This repository contains supplementary materials and computational workflows sup
 * `Supplementary Materials/`
   Contains all supporting files for the manuscript:
 
-  * `Mtb_positive_negative_data.csv` — Dataset for model training and evaluation
+  * `Mtb_positive_negative_data.csv` - Dataset for model training and evaluation
   * `Predicted_46_smORFs/`:
 
     * Supplementary File A - Predicted smORFs (FASTA)
