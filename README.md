@@ -29,8 +29,8 @@ This repository contains supplementary materials and computational workflows sup
     * Supplementary Table 3 - Functional annotations
     * Supplementary Table 4 - Model performance metrics
 
-* `hybrid_mtb_prediction.ipynb`
-  Jupyter Notebook implementing the hybrid ML model
+* `hybrid_predictor.py`
+  Hybrid ML model
 
 ---
 
