@@ -72,7 +72,3 @@ Ensure the following tools are installed:
 Transcriptome raw data is available at:
 Zenodo (DOI: 10.5281/zenodo.21390230)
 ---
-
-## References
-
-Cited references are included within the supplementary materials.
