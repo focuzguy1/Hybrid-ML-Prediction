@@ -1,5 +1,3 @@
-# Hybrid-ML-Prediction
-
 ## Hybrid Machine Learning Model for smORFs Prediction in *Mycobacterium tuberculosis*
 
 This repository contains supplementary materials and computational workflows supporting the manuscript:
