@@ -1,8 +1,6 @@
-## Hybrid Machine Learning Model for smORFs Prediction in *Mycobacterium tuberculosis*
+## Hybrid Machine Learning and Transcriptomics for Systematic Discovery of Bacterial smORFs
 
 This repository contains supplementary materials and computational workflows supporting the manuscript:
-
-**"Hybrid Machine Learning and Transcriptomics for Systematic Discovery of Bacterial smORFs"**
 
 ---
 
@@ -72,10 +70,9 @@ Ensure the following tools are installed:
 ## Data Availability
 
 Transcriptome raw data is available at:
-https://drive.google.com/drive/folders/1q64BG9UpYWyoY8h-CVd22N9mGArnr8yV?usp=drive_link
-
+Zenodo (DOI: 10.5281/zenodo.21390230)
 ---
 
-## 📚 References
+## References
 
 Cited references are included within the supplementary materials.
